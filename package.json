@@ -1,0 +1,25 @@
+{
+  "name": "ramda-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugenekgn/ramda-sandbox.git"
+  },
+  "author": "Eugene Kagan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eugenekgn/ramda-sandbox/issues"
+  },
+  "homepage": "https://github.com/eugenekgn/ramda-sandbox#readme",
+  "dependencies": {
+    "ramda": "^0.19.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13"
+  }
+}
